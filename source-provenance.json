@@ -1,0 +1,10 @@
+{
+  "source": "https://marcusheygster.com/duck-creek",
+  "exported": "2026-11-10",
+  "unchanged_game_files_sha256": {
+    "src/game/art.ts": "7b42722112a0a62071097132b3802255ae6b04c0c2c579cd4284c8bbe6512cec",
+    "src/game/duck.css": "b0fc3a993e656eb81369378a37604f594440b82e5d57ea1fddffe01c161bb140",
+    "src/game/engine.ts": "288f49e5cf7ea8d283b8d96230b0783c30df5f3f4671678d56d7481658191d07",
+    "src/game/duck-game.tsx": "44f47fcbd113e443a0c8f1401d99192aedad1354132fc32990e9640c6e5fbdf1"
+  }
+}
